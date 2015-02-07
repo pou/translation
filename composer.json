@@ -20,7 +20,7 @@
         "illuminate/support": "5.x",
         "illuminate/translation": "5.x",
         "illuminate/database": "5.x",
-        "pou/model": "*"
+        "pou/model": "1.1"
     },
     "autoload": {
         "classmap": [
