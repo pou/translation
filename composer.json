@@ -1,5 +1,5 @@
 {
-    "name": "waavi/translation",
+    "name": "pou/translation",
     "version":  "1.0",
     "description": "A Translation package for Laravel 4 with database and cache support",
     "license": "MIT",
